@@ -1,6 +1,0 @@
-@LearnMicroService_HostAddress = http://localhost:5239
-
-GET {{LearnMicroService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
